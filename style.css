@@ -1,0 +1,10 @@
+body * {
+    border: 1px solid black;
+}
+body{
+    background-color: rgb(151, 151, 151);
+}
+#buttons{
+    display: flex;
+    
+}
